@@ -20,6 +20,8 @@ mvn test -Dcucumber.options="--tags @tag name>"
   
 # the three tagged features available are:
 @RESTCreateUser
+
 @challengingDom
+
 @dynamicallyLoadedElement
 
